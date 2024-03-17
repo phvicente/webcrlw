@@ -10,16 +10,16 @@ e gerar relatórios sobre a estrutura de links internos. Suporta relatórios no 
 **Instalação:**
 ```
 git clone https://github.com/phvicente/webcrlw.git
-cd webcrawler
+cd webcrlw
 npm install
 ```
 **Para rastrear um site:**
 ```
-node main.js http://exemplo.com
+npm run start http://exemplo.com
 ```
 **Para gerar relatório em PDF:**
 ```
-node main.js http://exemplo.com pdf
+node run start http://exemplo.com pdf
 ```
 
 
