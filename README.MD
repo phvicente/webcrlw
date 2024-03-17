@@ -9,7 +9,7 @@ e gerar relatórios sobre a estrutura de links internos. Suporta relatórios no 
 
 **Instalação:**
 ```
-git clone https://seu-repositorio-aqui/webcrawler.git
+git clone https://github.com/phvicente/webcrlw.git
 cd webcrawler
 npm install
 ```
